@@ -18,4 +18,6 @@ nav a {
   padding-left: 10 px;
   padding-right: 10 px;
   background: grey;
+  margin-left: auto;
+  margin-right: auto;
 }
