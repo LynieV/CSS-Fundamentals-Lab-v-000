@@ -30,3 +30,12 @@ section#featured-property p {
   text-align: center;
   width: 800 px;
 }
+
+#details div {
+  display: block;
+  float: left;
+  text-align: center;
+  background-color: aqua;
+
+}
+
